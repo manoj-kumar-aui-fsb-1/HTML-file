@@ -1,2 +1,12 @@
 p {font-size: 30px;
-color: purple}
+color: purple;
+background-color: blue}
+
+.nav-link-items {
+ font-size: 40px;
+ color: red;
+ background-color: green;
+ border: 3px solid blue;
+
+
+}
